@@ -5,6 +5,11 @@
 
 ## 📌 Project Overview:
 ![Boston House Price Prediction image](https://github.com/user-attachments/assets/3c8bc59b-f56d-4d7f-978c-1f596bf9ae5d)
+Demo:
+
+
+https://github.com/user-attachments/assets/fd208fb2-b891-49f6-ac39-4a47525f9f80
+
 
 A Web appplication project that uses machine learning to predict Boston house prices based on various features like crime rate, number of rooms, and property tax. It’s built with Flask for the web interface and Scikit-learn for predictive modeling.
 Built by [Sitesh Gupta](https://github.com/Siteshgupta123)
